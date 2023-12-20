@@ -1,0 +1,10 @@
+
+Ejercicio 5: Conversión de Moneda
+Crea un programa que convierta una cantidad de dinero de una moneda a otra utilizando un tipo de cambio específico. Debes hacer lo siguiente:
+
+Define una variable que represente la cantidad de dinero en una moneda determinada, por ejemplo, cantidadDolares.
+Define una constante que represente el tipo de cambio entre las dos monedas, por ejemplo, tipoCambioDolarEuro.
+Realiza la conversión de la cantidad de dinero de una moneda a otra utilizando el tipo de cambio proporcionado.
+Por ejemplo, si quieres convertir de dólares a euros, multiplica la cantidad en dólares por el tipo de cambio dólar-euro.
+Si deseas realizar la conversión en la dirección opuesta, de euros a dólares, debes dividir la cantidad en euros por el tipo de cambio euro-dólar.
+Imprime el resultado de la conversión.
